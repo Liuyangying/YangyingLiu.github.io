@@ -3,13 +3,12 @@ title: "CSE 7"
 collection: teaching
 type: "TA"
 permalink: /teaching/2015-spring-teaching-1
-venue: "Programming and Data Structures"
-date: 2015-01-01
+venue: "Introduction to Programming"
+date: 2024-08-027
 location: "City, Country"
 ---
 
-Algorithmic design and implementation in a high-level, object-oriented language such as JAVA. Classes, subclasses, recursion, searching, sorting, linked lists, trees, stacks, queues.
-
+Problem-solving using the Java programming language. Data types, control flow, methods, arrays, objects, inheritance, breadth of computing.
 Heading 1
 ======
 
