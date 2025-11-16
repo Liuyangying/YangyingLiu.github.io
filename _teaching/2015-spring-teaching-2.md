@@ -1,14 +1,14 @@
 ---
 title: "CSE 7"
 collection: teaching
-type: "Workshop"
+type: "TA"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
+venue: "Programming and Data Structures"
 date: 2015-01-01
 location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Algorithmic design and implementation in a high-level, object-oriented language such as JAVA. Classes, subclasses, recursion, searching, sorting, linked lists, trees, stacks, queues.
 
 Heading 1
 ======
