@@ -9,11 +9,4 @@ location: "City, Country"
 ---
 
 Problem-solving using the Java programming language. Data types, control flow, methods, arrays, objects, inheritance, breadth of computing.
-Heading 1
-======
 
-Heading 2
-======
-
-Heading 3
-======
